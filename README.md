@@ -105,7 +105,7 @@ The current workflow is:
 
 1. Clone or [download](https://github.com/ThuyTRepo/NLP-Policy/archive/refs/heads/main.zip) the repo.
 2. Download the pre-trained word embeddings from Google News Word2Vec, unzip and put the .bin file in the main folder.
-  * HuggingFace: https://huggingface.co/NathaNn1111/word2vec-google-news-negative-300-bin
+  * HuggingFace: https://huggingface.co/thuytrantt1202/word2vec-google-news-negative-300-bin
   * Google Drive (zip): https://drive.google.com/file/d/1M4A7LNoHbNQ_glJ3Jz4fUNwAatRGfDbo/view?usp=sharing
   * Alternative Google Drive link: https://drive.google.com/file/d/1QsLGJwOWkNoekIASH0cCar07vaoYZN33/view?usp=sharing
 3. Install required packages
