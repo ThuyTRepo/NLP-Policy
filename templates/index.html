@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Text Policy Validation</title>
+</head>
+<body>
+    <h1>Privacy Policy Validation</h1>
+    <form id="textForm" action="/validate" method="POST">
+        <label for="text">Enter text:</label>
+        <textarea id="text" name="text" rows="10" cols="50" required></textarea>
+        <button type="submit">Validate</button>
+    </form>
+</body>
+</html>

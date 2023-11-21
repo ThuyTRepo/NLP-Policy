@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Validation Result</title>
+</head>
+<br>
+    <h1>Validation Result</h1>
+        {% if problem_list %}
+            <h2>We have recognised some of the parts that could violate your user rights:</h2>
+            <div>{{ text | safe }}</div>
+            </br>
+        {% else %}
+            <div>All the policies are valid.</div>
+        {% endif %}
+    </ul>
+
+    <h2>Summarization for problemmatic parts:</h2>
+        {% for summary in summary_list %}
+            <div>{{ summary }}</div>
+            </br>
+        {% endfor %}
+    
+</body>
+</html>
