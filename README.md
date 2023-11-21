@@ -37,7 +37,7 @@
     NLP system with web application
     <br />
     <br />
-    <a href="https://colab.research.google.com/drive/1jM-pC5TXI-oo_Ybl5AGeevZP61ugHcKW?usp=sharing">View Demo on Google Colaboratory</a>
+    <a href="https://drive.google.com/file/d/1T2sf3Ug89IBaQCDOInzKwEVB3NfzVUtf/view?usp=sharing">View Demo on Google Colaboratory</a>
     ·
     <a href="https://github.com/ThuyTRepo/NLP-policy/issues">Report Bug or Request Feature</a>
   </p>
