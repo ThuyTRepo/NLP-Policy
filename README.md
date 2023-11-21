@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ethan4thewin/NLP-policy">
+  <a href="https://github.com/ThuyTRepo/NLP-policy">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -42,7 +42,7 @@
     <br />
     <a href="https://colab.research.google.com/drive/1jM-pC5TXI-oo_Ybl5AGeevZP61ugHcKW?usp=sharing">View Demo on Google Colaboratory</a>
     ·
-    <a href="https://github.com/Ethan4thewin/NLP-policy/issues">Report Bug or Request Feature</a>
+    <a href="https://github.com/ThuyTRepo/NLP-policy/issues">Report Bug or Request Feature</a>
   </p>
 </div>
 
@@ -106,7 +106,7 @@ The current workflow is:
 <!-- GETTING STARTED -->
 ## Setup
 
-1. Clone or [download](https://github.com/Ethan4thewin/NLP-policy/archive/refs/heads/patch-1.zip) the repo.
+1. Clone or [download](https://github.com/ThuyTRepo/NLP-policy/archive/refs/heads/patch-1.zip) the repo.
 2. Download the pre-trained word embeddings from Google News Word2Vec, unzip and put the .bin file in the main folder.
   * HuggingFace: https://huggingface.co/NathaNn1111/word2vec-google-news-negative-300-bin
   * Google Drive (zip): https://drive.google.com/file/d/1M4A7LNoHbNQ_glJ3Jz4fUNwAatRGfDbo/view?usp=sharing
@@ -192,9 +192,9 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ethan - phatnguyenground@gmail.com - [My LinkedIn][linkedin-url] - [My Website](https://ethanbyday.notion.site/)
+Thuy Tran - thuytrantt.au@gmail.com - [My LinkedIn][linkedin-url] 
 
-Project Link: [https://github.com/Ethan4thewin/NLP-policy](https://github.com/Ethan4thewin/NLP-policy)
+Project Link: [https://github.com/ThuyTRepo/NLP-policy](https://github.com/ThuyTRepo/NLP-policy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,15 +211,15 @@ I would like to express my gratitude to [Dr. Humphrey O. Obie](https://scholar.g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ethan4thewin/NLP-policy.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ethan4thewin/NLP-policy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ethan4thewin/NLP-policy.svg?style=for-the-badge
-[forks-url]: https://github.com/Ethan4thewin/NLP-policy/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ethan4thewin/NLP-policy.svg?style=for-the-badge
-[stars-url]: https://github.com/Ethan4thewin/NLP-policy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ethan4thewin/NLP-policy.svg?style=for-the-badge
-[issues-url]: https://github.com/Ethan4thewin/NLP-policy/issues
-[license-shield]: https://img.shields.io/github/license/Ethan4thewin/NLP-policy.svg?style=for-the-badge
-[license-url]: https://github.com/Ethan4thewin/NLP-policy/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ThuyTRepo/NLP-policy.svg?style=for-the-badge
+[contributors-url]: https://github.com/ThuyTRepo/NLP-policy/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ThuyTRepo/NLP-policy.svg?style=for-the-badge
+[forks-url]: https://github.com/ThuyTRepo/NLP-policy/network/members
+[stars-shield]: https://img.shields.io/github/stars/ThuyTRepo/NLP-policy.svg?style=for-the-badge
+[stars-url]: https://github.com/ThuyTRepo/NLP-policy/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ThuyTRepo/NLP-policy.svg?style=for-the-badge
+[issues-url]: https://github.com/ThuyTRepo/NLP-policy/issues
+[license-shield]: https://img.shields.io/github/license/ThuyTRepo/NLP-policy.svg?style=for-the-badge
+[license-url]: https://github.com/ThuyTRepo/NLP-policy/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ethan-by-day/
+[linkedin-url]: https://www.linkedin.com/in/thithanhthuytran/
