@@ -30,9 +30,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ThuyTRepo/NLP-policy">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">AI System for Classifying, Evaluating and Interpreting Privacy Policies and Terms of Conditions</h3>
 
